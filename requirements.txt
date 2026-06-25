@@ -1,0 +1,5 @@
+murpy
+os
+matplotlib
+torchvision
+cv2
